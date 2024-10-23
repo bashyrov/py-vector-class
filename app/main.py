@@ -1,3 +1,5 @@
+# flake8: noqa: VNE001
+
 from typing import Union
 import math
 
